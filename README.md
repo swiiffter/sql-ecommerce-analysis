@@ -1,5 +1,6 @@
 # sql-ecommerce-analysis
 # 📊 SQL Ecommerce Analysis
+📄 See [ecommerce_analysis.sql](./ecommerce_analysis.sql) for all queries used in this project.
 
 ## 🧠 Goal
 Analyze sales data from an online store using SQL to extract insights about customers, products, and monthly performance.
@@ -15,6 +16,7 @@ Analyze sales data from an online store using SQL to extract insights about cust
 - Active customers per month
 - Sales by country
 - Average orders per customer
+- Most ordered products in 'Accessories' category
 
 ## 🛠 Skills Demonstrated
 - JOIN, GROUP BY, COUNT, SUM, AVG, CASE
